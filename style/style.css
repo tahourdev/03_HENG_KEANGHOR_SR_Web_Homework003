@@ -10,6 +10,7 @@ body {
   background-color: #fff;
 }
 
+header,
 nav {
   padding: 2rem 5rem;
   display: flex;
